@@ -9,6 +9,19 @@ ul.secondary-lessons {
     padding-bottom: 10px !important;
 }
 
+.lessons-title {
+    color: #CE2029;
+    margin: 40px 40px 0px 40px;
+}
+
+.lessons-title small {
+    margin-left: 10px;
+}
+
+.lessons-subtitle {
+    margin: 10px 40px 40px 40px;
+}
+
 ul.root-lessons li {
     font-size: 20px;
     color: #CE2029;

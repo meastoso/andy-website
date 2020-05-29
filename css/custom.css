@@ -1,0 +1,28 @@
+
+.lessons-image {
+    border: 1px solid #c0c0c0;
+    padding: 3px;
+    width: 250px;
+}
+
+ul.secondary-lessons {
+    padding-bottom: 10px !important;
+}
+
+ul.root-lessons li {
+    font-size: 20px;
+    color: #CE2029;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+ul.secondary-lessons li {
+    font-size: 16px;
+    color: #444444;
+    font-weight: 400;
+    padding-bottom: 5px;
+}
+
+.lessons-row {
+    margin-bottom: 20px;
+}

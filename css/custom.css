@@ -39,3 +39,22 @@ ul.secondary-lessons li {
 .lessons-row {
     margin-bottom: 20px;
 }
+
+.chris-test {
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.chris-test .container {
+    border:solid 1px #c5c5c5;
+    background:#ffffff;
+}
+
+.video-wrapper {
+    display: flex !important;
+    justify-content: center;
+}
+
+.last-video-row {
+    padding-bottom: 20px !important;
+}
